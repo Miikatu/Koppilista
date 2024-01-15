@@ -13,6 +13,8 @@
 
 -   [ ] Kassakaappi
 
+-   [ ] Ohjeita Pleikkaan
+
 
 ## Mitä tarvitsee tehdä kopilla
 
