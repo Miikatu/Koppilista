@@ -1,0 +1,22 @@
+
+
+# Koppilista
+
+
+## Hankintoja
+
+-   [ ] Säkkituoli 2 kpl
+
+-   [ ] Mikro
+
+-   [ ] Konsoleille hylly
+
+-   [ ] Kassakaappi
+
+
+## Mitä tarvitsee tehdä kopilla
+
+-   [ ] Säännöllinen siivous jotenkin
+
+-   [ ] Adapterin korjaus
+
